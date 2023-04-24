@@ -6,7 +6,7 @@ namespace Nudeny\Nudeny;
 final class Nudeny
 {
     private static $LOCALHOST_URL = "http://127.0.0.1:8000/";
-    private static $URL = "http://ec2-18-142-227-173.ap-southeast-1.compute.amazonaws.com/";
+    private static $URL = "http://ec2-18-136-200-224.ap-southeast-1.compute.amazonaws.com/";
 
     /**
      * Function that accepts array of URLs as argument and returns
